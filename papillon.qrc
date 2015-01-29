@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/main.png</file>
+        <file>images/splashscreen.jpg</file>
+        <file>images/about.ico</file>
+        <file>images/application-exit.png</file>
+        <file>images/document-new.png</file>
+        <file>images/document-open.png</file>
+        <file>images/document-save.png</file>
+        <file>images/document-save-as.png</file>
+        <file>images/edit-copy.png</file>
+        <file>images/edit-cut.png</file>
+        <file>images/edit-paste.png</file>
+        <file>images/edit-redo.png</file>
+        <file>images/edit-undo.png</file>
+        <file>images/help.ico</file>
+        <file>images/chinese.png</file>
+        <file>images/english.png</file>
+        <file>images/profiles-open.png</file>
+        <file>images/close-file.ico</file>
+    </qresource>
+</RCC>
